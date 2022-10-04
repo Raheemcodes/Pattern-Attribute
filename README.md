@@ -6,9 +6,7 @@
 
 ### What is the `pattern attribute`?
 
-> The `pattern` attribute is an attribute of the text, tel, email, url, password, and search input types
-
-> [Vist MDN for more detailed explanation](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern)
+> The `pattern` attribute is an attribute of the text, tel, email, url, password, and search input types. [Vist MDN for more detailed explanation](https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/pattern)
 
 ### Examples :
 
