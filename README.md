@@ -73,7 +73,10 @@
 2. Full Name Validation
 
    - RegExp:
-     `regexp (\w+\s+){1,}\w+ `
+
+     ```regexp
+     (\w+\s+){1,}\w+
+     ```
 
      > The regular expression above matches 2 or more names as the valid input
 
