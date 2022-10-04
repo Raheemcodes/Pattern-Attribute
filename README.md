@@ -86,7 +86,7 @@
      <div class="input-field">
        <input
          placeholder="Full Name"
-         pattern="(\w+\s+){1,}\w+"
+         pattern="^(\w+\s+){1,}\w+\s*$"
          type="text"
          class="input-control"
        />
@@ -100,10 +100,10 @@
    - Results:-
 
      - Valid: <br/>
-       ![Valid Result](./images/valid-email.png)
+       ![Valid Result](./images/valid-name.png)
 
      - Invalid: <br/>  
-       ![InValid Result](./images/invalid-mail.png)
+       ![InValid Result](./images/invalid-name.png)
 
 #### Links :-
 
