@@ -105,6 +105,44 @@
      - Invalid: <br/>  
        ![InValid Result](./images/invalid-name.png)
 
+3. Strong Password Validation
+
+   - RegExp:
+
+     ```regexp
+     ^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#\$%\^&\*]).{8,}$
+     ```
+
+     > The regular expression matches characters of 8 or length that contains small, capital letters, numbers anad special characters
+
+   - HTML:
+
+     ```html
+     <div class="input-field">
+       <input
+         placeholder="Password"
+         pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#\$%\^&\*]).{8,}$"
+         type="password"
+         class="input-control"
+       />
+       <span>
+         Password must contain 8+ : small, capital letter(s), number(s), special
+         character(s)!
+       </span>
+     </div>
+     ```
+
+   - CSS :
+     <a href="#css">Click to go back to style</a>
+
+   - Results:-
+
+     - Valid: <br/>
+       ![Valid Result](./images/valid-password.png)
+
+     - Invalid: <br/>  
+       ![InValid Result](./images/invalid-password.png)
+
 #### Links :-
 
 - [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
