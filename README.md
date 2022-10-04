@@ -2,6 +2,9 @@
 
 > Form validation with just HTML and CSS
 
-Links - [@CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ) || [@StackBlitz](https://stackblitz.com/edit/web-platform-1aoslh?file=index.html)
+Links :-
 
-The <ins>pattern</ins> attribute is an attribute of the text, tel, email, url, password, and search input types
+- [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
+- [View at StackBlitz](https://stackblitz.com/edit/web-platform-1aoslh?file=index.html)
+
+The `pattern` attribute is an attribute of the text, tel, email, url, password, and search input types
