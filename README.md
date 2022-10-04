@@ -12,58 +12,58 @@
 
 1. Email Validation
 
-Email syntax regex :
+   - REGEXP :
 
-```regexp
-  ^\S+@\S+\.com+$
-```
+   ```regexp
+     ^\S+@\S+\.com+$
+   ```
 
-HTML:
+   - HTML:
 
-```html
-<div class="input-field">
-  <input
-    placeholder="E-Mail"
-    pattern="^\S+@\S+\.com+$"
-    type="email"
-    class="input-control"
-  />
-  <span>Please, enter a valid E-Mail!</span>
-</div>
-```
+   ```html
+   <div class="input-field">
+     <input
+       placeholder="E-Mail"
+       pattern="^\S+@\S+\.com+$"
+       type="email"
+       class="input-control"
+     />
+     <span>Please, enter a valid E-Mail!</span>
+   </div>
+   ```
 
-CSS:
+   - CSS:
 
-```css
-.input-control {
-  border: 2px solid #1e419a;
-  width: 100%;
-  height: 3rem;
-  padding: 0.5rem;
-  border-radius: 4px;
-  font-size: 1.2rem;
-  margin-bottom: 0.25rem;
-  outline: none;
-}
+   ```css
+   .input-control {
+     border: 2px solid #1e419a;
+     width: 100%;
+     height: 3rem;
+     padding: 0.5rem;
+     border-radius: 4px;
+     font-size: 1.2rem;
+     margin-bottom: 0.25rem;
+     outline: none;
+   }
 
-.input-control + span {
-  display: none;
-  font-size: 0.8rem;
-  color: #fa0606;
-}
+   .input-control + span {
+     display: none;
+     font-size: 0.8rem;
+     color: #fa0606;
+   }
 
-.input-control:invalid {
-  border: 2px solid #fa0606;
-}
+   .input-control:invalid {
+     border: 2px solid #fa0606;
+   }
 
-.input-control:invalid + span {
-  display: block;
-}
-```
+   .input-control:invalid + span {
+     display: block;
+   }
+   ```
 
-Results Valid :-
+   - Results Valid :-
 
-- Valid: [Valid Result]()../images/valid-email.png)
+     - Valid: [Valid Result]()../images/valid-email.png)
 
 #### Links :-
 
