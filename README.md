@@ -10,6 +10,8 @@
 
 ### Examples :
 
+1. Email Validation
+
 #### Links :-
 
 - [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
