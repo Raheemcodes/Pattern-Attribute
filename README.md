@@ -24,6 +24,18 @@
 </div>
 ```
 
+result
+
+<div class="input-field">
+  <input
+    placeholder="E-Mail"
+    pattern="^\S+@\S+\.com+$"
+    type="email"
+    class="input-control"
+  />
+  <span>Please, enter a valid E-Mail!</span>
+</div>
+
 #### Links :-
 
 - [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
