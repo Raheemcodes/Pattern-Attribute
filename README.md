@@ -67,7 +67,7 @@
        ![Valid Result](./images/valid-email.png)
 
      - Invalid:  
-       ![InValid Result](./images/invalid-email.png)
+       ![InValid Result](./images/invalid-mail.png)
 
 #### Links :-
 
