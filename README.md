@@ -12,6 +12,10 @@
 
 1. Email Validation
 
+Email syntax regex : `javascript new new RegExp(^\S+@\S+\.com+$)`
+
+HTML:
+
 ```html
 <div class="input-field">
   <input
@@ -23,6 +27,8 @@
   <span>Please, enter a valid E-Mail!</span>
 </div>
 ```
+
+CSS:
 
 ```css
 .input-control {
@@ -53,7 +59,7 @@
 
 Results Valid :-
 
-- Valid: [Valid Result][../images/valid-email.png]
+- Valid: [Valid Result]()../images/valid-email.png)
 
 #### Links :-
 
