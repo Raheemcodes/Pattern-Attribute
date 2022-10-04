@@ -64,6 +64,7 @@
    - Results:-
 
      - Valid: <br/>
+
        ![Valid Result](./images/valid-email.png)
 
      - Invalid: <br/>  
