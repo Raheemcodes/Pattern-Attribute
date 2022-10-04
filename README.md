@@ -94,10 +94,6 @@
      - CSS :
        <a href="#css">Click to go back to style</a>
 
-   ```
-
-   ```
-
 #### Links :-
 
 - [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
