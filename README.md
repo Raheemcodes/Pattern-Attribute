@@ -94,8 +94,8 @@
      </div>
      ```
 
-     - CSS :
-       <a href="#css">Click to go back to style</a>
+   - CSS :
+     <a href="#css">Click to go back to style</a>
 
 #### Links :-
 
