@@ -12,7 +12,11 @@
 
 1. Email Validation
 
-Email syntax regex : `javascript new new RegExp(^\S+@\S+\.com+$)`
+Email syntax regex :
+
+```regexp
+  ^\S+@\S+\.com+$
+```
 
 HTML:
 
