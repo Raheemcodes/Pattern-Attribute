@@ -12,7 +12,7 @@
 
 1. Email Validation
 
-   - REGEXP :
+   - RegExp :
 
    ```regexp
      ^\S+@\S+\.com+$
@@ -32,7 +32,7 @@
    </div>
    ```
 
-   - CSS:
+   - <span id="css">CSS:</span>
 
    ```css
    .input-control {
@@ -69,6 +69,34 @@
 
      - Invalid: <br/>  
        ![InValid Result](./images/invalid-mail.png)
+
+2. Full Name Validation
+
+   - RegExp:
+     `regexp (\w+\s+){1,}\w+ `
+
+     > The regular expression above matches 2 or more names as the valid input
+
+   - HTML:
+
+     ```html
+     <div class="input-field">
+       <input
+         placeholder="Full Name"
+         pattern="(\w+\s+){1,}\w+"
+         type="text"
+         class="input-control"
+       />
+       <span>Please, enter a valid full name</span>
+     </div>
+     ```
+
+     - CSS :
+       <a href="#css">Click to go back to style</a>
+
+   ```
+
+   ```
 
 #### Links :-
 
