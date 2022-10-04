@@ -97,6 +97,14 @@
    - CSS :
      <a href="#css">Click to go back to style</a>
 
+   - Results:-
+
+     - Valid: <br/>
+       ![Valid Result](./images/valid-email.png)
+
+     - Invalid: <br/>  
+       ![InValid Result](./images/invalid-mail.png)
+
 #### Links :-
 
 - [View at CodePen](https://codepen.io/raheemscorp/pen/poVZoOZ)
