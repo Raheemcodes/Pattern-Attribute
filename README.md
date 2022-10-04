@@ -63,7 +63,7 @@
 
    - Results Valid :-
 
-     - Valid: ![Valid Result](../images/valid-email.png)
+     - Valid: ![Valid Result](./images/valid-email.png)
 
 #### Links :-
 
