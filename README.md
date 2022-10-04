@@ -61,12 +61,12 @@
    }
    ```
 
-   - Results Valid :-
+   - Results:-
 
-     - Valid:
+     - Valid: <br/>
        ![Valid Result](./images/valid-email.png)
 
-     - Invalid:  
+     - Invalid: <br/>  
        ![InValid Result](./images/invalid-mail.png)
 
 #### Links :-
